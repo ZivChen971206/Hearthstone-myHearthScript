@@ -1,0 +1,46 @@
+// 魂火
+VAN_EX1_308;warlock;None;Discard:2;/
+VAN_EX1_308;warlock;None;Hold:1;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+// 死亡缠绕
+VAN_EX1_302;warlock;None;Discard:2;/
+// 阿曼尼狂战士
+VAN_EX1_393;warlock;None;Hold:1;/
+// 麦田
+VAN_EX1_556;warlock;None;Discard:2;/
+VAN_EX1_556;warlock;mage;Hold:1;/
+VAN_EX1_556;warlock;hunter;Hold:1;/
+VAN_EX1_556;warlock;warlock;Hold:1;/
+// 破碎残阳不留
+VAN_EX1_019;warlock;None;Discard:2;/
+// 奥术傀儡不留
+VAN_EX1_089;warlock;None;Discard:2;/
+// 十字军不留
+VAN_EX1_020;warlock;None;Discard:2;/
+// 年轻的女祭司后手两张都要，先手留一张
+VAN_EX1_004;warlock;None;Hold:1;/
+VAN_EX1_004;warlock;None;Hold:2;VAN_EX1_405/VAN_EX1_319/VAN_CS2_189/VAN_CS2_065/VAN_EX1_008/VAN_EX1_029/GAME_005
+// 恐狼默认不留，有一费留一张
+VAN_EX1_162;warlock;None;Discard:2;/
+VAN_EX1_162;warlock;None;Hold:1;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+// 猫头鹰不留
+VAN_CS2_203;warlock;None;Discard:2;/
+// 力量的代价默认不留，有一费留一张
+VAN_EX1_316;warlock;None;Discard:2;/
+VAN_EX1_316;warlock;None;Hold:1;VAN_EX1_405/VAN_EX1_319/VAN_CS2_189/VAN_CS2_065/VAN_EX1_008/VAN_EX1_029/
+// 血骑士
+VAN_EX1_590;warlock;None;Discard:2;/
+VAN_EX1_590;warlock;warlock;Hold:1;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+// 飞刀哥
+VAN_NEW1_019;warlock;None;Discard:2;/
+VAN_NEW1_019;warlock;None;Hold:1;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+//马云
+VAN_EX1_029;warlock;None;Hold:1;/
+//持盾
+VAN_EX1_405;warlock;None;Discard:2;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+VAN_EX1_405;warlock;None;Hold:1;/
+//弓箭
+VAN_CS2_189;warlock;None;Discard:2;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+VAN_CS2_189;warlock;None;Hold:1;/
+// 叫嚣默认留，有一费不留
+VAN_CS2_188;warlock;None;Discard:2;VAN_EX1_029/VAN_EX1_319/VAN_CS2_065/VAN_EX1_008/VAN_EX1_004/
+VAN_CS2_188;warlock;None;Hold:1;/

@@ -1,0 +1,43 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 21:03:15 V117.178 控场模式 7000 face 15 womob:4 ets 40 iC 1 aA 0
+#######################################################################
+turn 19/2
+mana 8/10
+emana 10
+own secretsCount: 0
+enemy secretsCount: 0 ;
+player:
+1 1 0 0 2
+ownhero:
+shaman 28 30 0 False False 67 True 0 False 3 0 False
+weapon: 3 2 splittingaxe ULD_413 0 0
+ability: False HERO_02bp
+osecrets: 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 27 30 0 False False 65 False
+weapon: 0 0 unknown None 0 0
+ability: True CS1h_001_H1
+fatigue: 0 0 7 0
+OwnMinions:
+wrathofairtotem CS2_052 zp:1 e:100 A:0 H:2 mH:2 rdy:False natt:0 ex ptt
+searingtotem CS2_050 zp:2 e:127 A:1 H:1 mH:1 rdy:False natt:0 ex ptt
+EnemyMinions:
+Own Handcards: 
+pos 1 eviltotem 2 entity 47 ULD_276 0 0 0
+Enemy cards: 3
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: 
+eg: TRL_097,1;LOOT_008,1;EX1_622,1;UNG_022,1;EX1_339,1;
+od: EX1_244,2;ULD_171,2;AT_052,2;GIL_586,2;KAR_073,2;ULD_276,1;CFM_696,2;GVG_038,2;GIL_530,2;CS2_039,1;ULD_413,2;AT_047,2;DRG_211,1;GIL_692,1;OG_028,2;BOT_245,1;ULD_177,1;EX1_586,2;
+recalc-check###########
+entityupdate! 1000 to 127
+noRecalcNeeded!!!-----------------------------------

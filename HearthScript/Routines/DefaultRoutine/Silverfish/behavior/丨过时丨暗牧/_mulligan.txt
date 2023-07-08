@@ -1,0 +1,76 @@
+// 虚触侍从
+SW_446;priest;None;Hold:2;/
+// 狂暴邪翼蝠:
+YOD_032;priest;None;Discard:2;/
+YOD_032;priest;None;Hold:2;/SW_446/NEW1_025/CS2_146
+// 空降歹徒:
+DRG_056;priest;None;Hold:2;/
+// 暮光欺诈者:
+SW_444;priest;None;Discard:2;/
+SW_444;priest;None;Hold:1;/NEW1_025/CS2_146/SW_446
+// 暗影投弹手:
+GVG_009;priest;None;Discard:2;/
+GVG_009;priest;None;Hold:1;/NEW1_025/CS2_146/SW_446
+// 巡游向导:
+SCH_312;priest;None;Discard:2;/
+SCH_312;priest;None;Hold:1;/NEW1_025/CS2_146/SW_446
+// 血帆海盗:
+NEW1_025;priest;None;Hold:1;/
+// 南海船工:
+CS2_146;priest;None;Hold:1;/
+// 船载火炮:
+GVG_075;priest;None;Hold:1;/
+// 蠕动的恐魔:
+DMF_091;priest;None;Discard:2;/
+// 心灵震爆:
+DS1_233;priest;None;Discard:2;/
+VAN_DS1_233;priest;None;Discard:2;/
+// 曼科里克:
+BAR_721;priest;None;Discard:2;/
+// 裂心者伊露希亚:
+SCH_159;priest;None;Discard:2;/
+// 黑暗主教本尼迪塔斯:
+SW_448;priest;None;Discard:2;/
+// 暗中生长:
+CS3_028;priest;None;Discard:2;/
+// 海盗帕奇斯:
+CFM_637;priest;None;Discard:2;/
+// 暗影视界:
+UNG_029;priest;None;Discard:2;/
+// 暗影布缝针:
+SW_012;priest;None;Discard:2;/
+// 异教低阶牧师
+SCH_713;priest;None;Discard:2;/
+// 亡者复生
+SCH_514;priest;None;Discard:2;/
+// 疲倦的大一新生
+SCH_137;priest;None;Hold:2;/
+// 被禁锢的矮劣魔
+BT_258;priest;None;Hold:2;/
+// 课桌小鬼
+SCH_145;priest;None;Discard:2;/
+// 鱼人宝宝
+LOEA10_3;priest;None;Discard:2;/
+CORE_LOEA10_3;priest;None;Discard:2;/
+// 库尔提拉斯教士
+EX1_195;priest;None;Discard:2;/
+CORE_EX1_195;priest;None;Discard:2;/
+EX1_195;priest;None;Hold:1;/SCH_137/SW_446/
+CORE_EX1_195;priest;None;Hold:1;/SCH_137/SW_446/
+// 防护改装师
+BT_722;priest;None;Discard:2;/
+// 贪婪的书虫
+SCH_142;priest;None;Discard:2;/
+// 旅行商人
+SW_307;priest;None;Discard:2;/
+// 教导主任加丁
+SCH_126;priest;None;Hold:2;/
+// 暗影之灵
+CS3_013;priest;None;Discard:2;/
+// 魔像师卡扎库斯
+BAR_079;priest;None;Discard:2;/
+// 龙喉监工
+BT_256;priest;None;Discard:2;/
+BT_256;priest;None;Hold:1;/BT_258/SCH_137/SW_446
+// 防护长袍
+SCH_146;priest;None;Discard:2;/

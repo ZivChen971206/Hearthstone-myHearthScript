@@ -1,0 +1,42 @@
+// 怒火中烧
+VAN_EX1_607;warrior;None;Discard:2;/
+VAN_EX1_607;warrior;warlock;Hold:1;/
+VAN_EX1_607;warrior;hunter;Hold:1;/
+// 斩杀
+VAN_CS2_108;warrior;None;Discard:2;/
+// 旋风斩
+VAN_EX1_400;warrior;None;Discard:2;/
+VAN_EX1_400;warrior;warlock;Hold:2;/
+VAN_EX1_400;warrior;hunter;Hold:2;/
+// 盾牌猛击
+VAN_EX1_410;warrior;None;Discard:2;/
+// 严酷的监工
+VAN_EX1_603;warrior;None;Discard:2;/
+VAN_EX1_603;warrior;warlock;Hold:2;/
+VAN_EX1_603;warrior;hunter;Hold:2;/
+// 炽炎战斧
+// 猛击
+VAN_EX1_391;warrior;None;Discard:2;/
+VAN_EX1_391;warrior;warlock;Hold:2;/
+VAN_EX1_391;warrior;hunter;Hold:2;/
+// 铸甲师
+// 顺劈斩
+VAN_CS2_114;warrior;None;Discard:2;/
+VAN_CS2_114;warrior;warlock;Hold:2;/
+VAN_CS2_114;warrior;hunter;Hold:2;/
+// 盾牌格挡
+VAN_EX1_606;warrior;None;Hold:1;/
+VAN_EX1_606;warrior;Mage;Hold:2;/
+VAN_EX1_606;warrior;warrior;Hold:2;/
+// 苦痛侍僧
+VAN_EX1_007;warrior;None;Hold:1;/
+VAN_EX1_007;warrior;warlock;Discard:2;/
+VAN_EX1_007;warrior;hunter;Discard:2;/
+// 血骑士
+VAN_EX1_590;warrior;None;Hold:1;/
+// 森金持盾卫士
+VAN_CS2_179;warrior;None;Hold:1;/
+// 狂奔科多兽
+// 绝命乱斗
+VAN_EX1_407;warrior;warlock;Hold:1;/
+VAN_EX1_407;warrior;hunter;Hold:1;/

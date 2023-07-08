@@ -1,0 +1,63 @@
+// 农夫
+SW_319;druid;None;Hold:2;/
+SW_319;druid;mage;Discard:2;/
+SW_319;druid;demonhunter;Discard:2;/
+SW_319;druid;druid;Discard:2;/
+// 安插证据
+REV_313;druid;None;Discard:2;/
+// 邪恶的厨师
+REV_016;druid;None;Discard:2;/
+// 荆棘护卫
+BAR_533;druid;None;Hold:1;/TID_002/TSC_827/DED_001/AV_137/
+BAR_533;druid;None;Discard:2;/
+// 活体根须
+CORE_AT_037;druid;None;Hold:1;/
+// 欢快的同伴
+CORE_ULD_191;druid;None;Discard:2;/
+// 应急木工
+DED_003;druid;None;Discard:2;/
+// 播种施肥
+SW_422;druid;None;Discard:2;/
+// 水栖形态
+TSC_654;druid;None;Discard:2;/
+// 自然使徒
+TID_002;druid;None;Hold:1;/
+// 凶恶的滑矛纳迦
+TSC_827;druid;None;Discard:2;/AV_137/
+TSC_827;druid;None;Hold:1;/
+// 暗礁德鲁伊
+DED_001;druid;None;Discard:2;/AV_137/TSC_827/
+DED_001;druid;None;Hold:1;/
+// 深铁穴居人
+AV_137;druid;None;Hold:1;/
+// 防护改装师
+BT_722;druid;None;Discard:2;/
+BT_722;druid;None;Hold:1;DED_001/AV_137/
+// 萌物来袭
+SCH_617;druid;None;Discard:2;/
+SCH_617;druid;None;Hold:2;DED_001/AV_137/SW_319/
+// 劳累的驮骡
+SW_306;druid;None;Discard:2;/
+// 吵吵机器人
+CORE_GVG_085;druid;None;Discard:2;/
+CORE_GVG_085;druid;None;Hold:1;BAR_537/GAME_005/
+// 噬骨殴斗者
+BT_715;druid;None;Discard:2;/
+BT_715;druid;None;Hold:1;BAR_537/GAME_005/
+// 钢鬃卫兵
+BAR_537;druid;None;Hold:1;/
+// 堆肥
+SW_437;druid;None;Discard:2;/
+// 尖壳印记
+BAR_549;druid;None;Discard:2;/
+// 怒爪精锐
+AV_294;druid;None;Discard:2;/
+// 野性印记
+CS2_009;druid;None;Discard:2;/
+CORE_CS2_009;druid;None;Discard:2;/
+// 艾露恩神谕者
+SW_419;druid;None;Discard:2;/
+// 德雷克塔尔
+AV_100;druid;None;Hold:1;/GAME_005/
+// 曼科里克
+BAR_721;druid;None;Discard:2;/

@@ -1,0 +1,46 @@
+// 银色侍从
+VAN_EX1_008;druid;None;Hold:2;/
+// 激活
+VAN_EX1_169;druid;None;Hold:2;/
+// 麦田傀儡
+VAN_EX1_556;druid;None;Hold:2;/
+// 愤怒
+VAN_EX1_154;druid;None;Hold:2;/
+// 野性之力
+VAN_EX1_160;druid;None;Hold:1;/
+// 战利品贮藏者
+VAN_EX1_096;druid;None;Hold:2;/
+// 丛林守护者
+VAN_EX1_166;druid;None;Discard:2;/
+// 利爪德鲁伊
+VAN_EX1_165;druid;None;Discard:2;/
+// 紫罗兰教师
+VAN_NEW1_026;druid;None;Discard:2;/
+VAN_NEW1_026;druid;None;Hold:1;/VAN_EX1_169
+// 横扫
+VAN_CS2_012;druid;None;Discard:2;/
+VAN_CS2_012;druid;warlock;Hold:1;/
+VAN_CS2_012;druid;hunter;Hold:1;/
+// 血法师萨尔诺斯
+VAN_EX1_012;druid;None;Discard:1;/
+// 王牌猎人
+VAN_EX1_005;druid;None;Discard:2;/
+// 碧蓝幼龙
+VAN_EX1_284;druid;None;Discard:2;/
+// 知识古树
+VAN_NEW1_008;druid;None;Discard:2;/
+// 野蛮咆哮
+VAN_CS2_011;druid;None;Discard:2;/
+// 自然之力
+VAN_EX1_571;druid;None;Discard:2;/
+// 森金持盾卫士
+// VAN_CS2_179;druid;None;Discard:2;/
+VAN_CS2_179;druid;None;Hold:1;/
+// 野性成长
+VAN_CS2_103;druid;None;Hold:2;/
+// 冰风雪人
+// VAN_CS2_182;druid;None;Discard:2;/
+VAN_CS2_182;druid;None;Hold:1;/
+// 大地之环先知
+// VAN_CS2_117;druid;None;Discard:2;/
+VAN_CS2_117;druid;None;Hold:1;/

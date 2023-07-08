@@ -1,0 +1,51 @@
+#######################################################################
+#######################################################################
+开始计算, 已花费时间: 14:47:38 V2021.09.13 酸奥秘法 3000 maxCal 60 maxWide 3000 face 27 berserk:1 ets 200 secret aA 0
+水晶： 5 / 5 [我方英雄] mage （生命: 40 + 0 武器: 未知 ( 0 / 0 )  奥秘数: 1) [敌方英雄] priest （生命: 17 + 0 武器: 未知 ( 0 / 0 ) ) 
+(猜测对手构筑为: 套牌代码：
+预计直伤： 0， 加上场攻一共 1 )
+[敌方场面] 剑圣萨穆罗 ( 1 / 4 ) 
+[我方场面] 麦迪文的男仆 ( 2 / 2 )[无法攻击] 
+[我方手牌] 洛欧塞布(费用： 5 ； 5 / 5 ) 暗金教水晶侍女(费用： 2 ； 5 / 5 ) 豪宅管家俄里翁(费用： 4 ； 3 / 5 ) 镜像实体(费用： 3 ； 0 / 0 ) 
+[敌方剩余卡牌预测] 
+#######################################################################
+#######################################################################
+turn 9/1
+mana 5/5
+emana 4
+own secretsCount: 1
+enemy secretsCount: 0 ;
+player:
+0 0 0 0 2
+ownhero:
+mage 40 40 0 False False 76 False 0 False 0 0 False
+weapon: 0 0 未知 None 0 0 0
+ability: True HERO_08fbp
+osecrets: LOOT_214 
+cthunbonus: 0 0 0
+jadegolems: 0 0
+elementals: 0 0 0
+quests: None 0 1000 None 0 1000
+advanced: 0 0
+enemyhero:
+priest 17 30 0 False False 74 False
+weapon: 0 0 未知 None 0 0 0
+ability: True CS1h_001_H1
+fatigue: 47 0 39 0
+OwnMinions:
+麦迪文的男仆(2/2) KAR_092 zp:1 e:59 A:2 H:2 mH:3 rdy:False natt:1 ex
+EnemyMinions:
+剑圣萨穆罗(1/4) BAR_078 zp:1 e:17 A:1 H:4 mH:6 rdy:True ex
+Own Handcards: 
+pos 1 洛欧塞布(5/5) 5 entity 60 FP1_030 0 0 0
+pos 2 暗金教水晶侍女(5/5) 2 entity 40 CFM_760 0 0 0
+pos 3 豪宅管家俄里翁(3/5) 4 entity 57 REV_515 0 0 0
+pos 4 镜像实体(0/0) 3 entity 42 EX1_294 0 0 0
+Enemy cards: 5
+ownDiedMinions: 
+enemyDiedMinions: 
+otg: 
+etg: 
+og: REV_945,1;BT_003,1;CFM_066,1;None,1;
+eg: None,1;CS2_004,1;FP1_017,1;GAME_005,1;
+od: REV_018,2;CFM_066,2;REV_841,2;ULD_240,2;REV_945,1;FP1_004,2;CORE_UNG_020,2;ULD_726,2;KAR_092,1;CORE_CS2_023,1;EX1_287,2;ULD_239,1;LOOT_101,2;EX1_612,2;DMF_107,2;REV_513,1;CORE_CS2_029,1;DMF_106,2;ULD_293,2;DMF_109,1;CFM_760,1;
